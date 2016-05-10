@@ -1,14 +1,7 @@
-color:
-  saturation: 0.2849916
-  brandStrength: 0.06576729
-  rhythmicContrast: 0.1416526
-  brandColors:
-    - '#75A8E7'
-    - '#88923B'
-    - '#0B1306'
-    - '#293332'
-    - '#DDE5F2'
-  lightness: 0
+name: PrimoPur Organic Farms
+favicon: null
+layout_spectrum: 0.05649241
+typography_spectrum: 0.113828
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.05649241
-typography_spectrum: 0.113828
-name: PrimoPur Organic Farms
+title: Primopur organic farms
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#75A8E7'
+    - '#88923B'
+    - '#0B1306'
+    - '#293332'
+    - '#DDE5F2'
+  brandStrength: 0.06576729
+  lightness: 0
+  saturation: 0.2849916
+  rhythmicContrast: 0.1416526
+purpose: []

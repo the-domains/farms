@@ -1,14 +1,26 @@
-layout_spectrum: 0.05649241
 color:
   saturation: 0.2849916
-  lightness: 0
   brandStrength: 0.06576729
+  rhythmicContrast: 0.1416526
   brandColors:
     - '#75A8E7'
     - '#88923B'
     - '#0B1306'
     - '#293332'
     - '#DDE5F2'
-  rhythmicContrast: 0.1416526
+  lightness: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.05649241
 typography_spectrum: 0.113828
 name: PrimoPur Organic Farms

@@ -1,14 +1,14 @@
-layout_spectrum: 0.6070826
+layout_spectrum: 0.1922428
+typography_spectrum: 0.113828
 color:
-  saturation: 0.4215852
-  lightness: 0.08347386
-  brandStrength: 0.1146712
+  saturation: 0.2849916
+  lightness: 0
+  brandStrength: 0.06576729
   brandColors:
     - '#75A8E7'
     - '#88923B'
     - '#0B1306'
     - '#293332'
     - '#DDE5F2'
-  rhythmicContrast: 0.5809444
-typography_spectrum: 0.113828
+  rhythmicContrast: 0.1416526
 name: Farms

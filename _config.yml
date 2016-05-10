@@ -1,5 +1,4 @@
-layout_spectrum: 0.1922428
-typography_spectrum: 0.113828
+layout_spectrum: 0.05649241
 color:
   saturation: 0.2849916
   lightness: 0
@@ -11,4 +10,5 @@ color:
     - '#293332'
     - '#DDE5F2'
   rhythmicContrast: 0.1416526
+typography_spectrum: 0.113828
 name: PrimoPur Organic Farms

@@ -1,7 +1,7 @@
 name: PrimoPur Farms
 favicon: null
-layout_spectrum: 0.72945
-typography_spectrum: 0
+layout_spectrum: 0.51807
+typography_spectrum: 0.06047
 title: Primopur organic farms
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#0B1306'
     - '#293332'
     - '#DDE5F2'
-  brandStrength: 0.25
-  lightness: 0.625
-  saturation: 0.5625
+  brandStrength: 0.3125
+  lightness: 0.5625
+  saturation: 0.625
   rhythmicContrast: 0.25
 purpose: []

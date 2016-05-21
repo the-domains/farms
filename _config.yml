@@ -6,14 +6,14 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.6416526
+  saturation: 0.5649241
   brandStrength: 0.2495784
   lightness: 0.7268128
   brandColors:
@@ -22,7 +22,7 @@ color:
     - '#0B1306'
     - '#293332'
     - '#DDE5F2'
-  rhythmicContrast: 0.3060708
+  rhythmicContrast: 0.2521079
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: PrimoPur Farms
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.2403035
-layout_spectrum: 0.1854975
+layout_spectrum: 1

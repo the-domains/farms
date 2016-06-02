@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Primopur organic farms]]></title>
         <description><![CDATA[Primopur organic farms]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://primopur.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 06:19:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 06:26:22 GMT</lastBuildDate>
+        <atom:link href="http://primopur.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[growing crops]]></title>
+            <description><![CDATA[<article><h1>growing crops</h1><p>Our farms cascade down a gentle hillside towards rice fields. The lower farm mainly grows crops for our organic livestock feeding program; on both upper and lower farms we also grow crops for consumption by us and our small workforce; also to supply tasty and healthy meals to people staying in our guest accommodation; as well as assisting some needy local families.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb42213e-e110-41ff-a11f-2b61efceb1d0.jpg"></article>]]></description>
+            <link>http://primopur.com/growing-crops/index.html</link>
+            <guid isPermaLink="false">addf7940-4fca-496b-9a5a-3a8c97bf8384</guid>
+            <pubDate>Thu, 02 Jun 2016 06:26:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[self sufficiency]]></title>
             <description><![CDATA[<article><h1>self sufficiency</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c59dace-18c9-4fbf-a0d5-a54e8355e01a.jpg"></article>]]></description>
-            <link>undefinedself-sufficiency/index.html</link>
+            <link>http://primopur.com/self-sufficiency/index.html</link>
             <guid isPermaLink="false">2e8ef77e-a7bf-4e97-8fe1-9e1389a73b04</guid>
             <pubDate>Thu, 02 Jun 2016 06:18:20 GMT</pubDate>
         </item>

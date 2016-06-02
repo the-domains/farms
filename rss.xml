@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Primopur organic farms]]></title>
+        <description><![CDATA[Primopur organic farms]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 02 Jun 2016 06:19:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[self sufficiency]]></title>
+            <description><![CDATA[<article><h1>self sufficiency</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c59dace-18c9-4fbf-a0d5-a54e8355e01a.jpg"></article>]]></description>
+            <link>undefinedself-sufficiency/index.html</link>
+            <guid isPermaLink="false">2e8ef77e-a7bf-4e97-8fe1-9e1389a73b04</guid>
+            <pubDate>Thu, 02 Jun 2016 06:18:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

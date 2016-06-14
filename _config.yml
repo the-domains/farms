@@ -1,5 +1,8 @@
+name: PrimoPur farms
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.04762
 title: Primopur organic farms
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5649241
-  brandStrength: 0.2495784
-  rhythmicContrast: 0.2521079
   brandColors:
     - '#75A8E7'
     - '#88923B'
     - '#0B1306'
     - '#293332'
     - '#DDE5F2'
-  lightness: 0.7268128
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: PrimoPur Farms
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.0910624
-layout_spectrum: 0.08937605
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.2521079
+purpose: []

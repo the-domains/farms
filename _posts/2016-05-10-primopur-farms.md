@@ -1,11 +1,13 @@
 ---
 author: []
-datePublished: '2016-06-02T08:42:24.529Z'
+datePublished: '2016-06-14T08:53:38.005Z'
 title: 'family farms '
-description: 'We are located in central Philippines, on Luzon, the largest island - in the Bicol region, several hundred kilometres south of the capital, Manila...'
+description: >-
+  We are located in central Philippines, on Luzon, the largest island - in the
+  Bicol region, several hundred kilometres south of the capital, Manila...
 sourcePath: _posts/2016-05-10-primopur-farms.md
-dateModified: '2016-06-02T08:42:06.834Z'
-starred: true
+dateModified: '2016-06-14T08:53:37.593Z'
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

@@ -1,19 +1,19 @@
 ---
-description: ''
-datePublished: '2016-06-02T06:18:20.770Z'
-inNav: false
-inLanguage: null
+datePublished: '2016-06-14T08:59:02.575Z'
+sourcePath: _posts/2016-04-30-self-sufficiency.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-30-self-sufficiency.md
-hasPage: true
-authors: []
+dateModified: '2016-06-14T08:58:48.319Z'
 title: self sufficiency
 publisher: null
-keywords: []
-dateModified: '2016-06-02T06:18:13.970Z'
-inFeed: true
+description: ''
+inLanguage: null
+inNav: false
 starred: false
 url: self-sufficiency/index.html
 _type: Article

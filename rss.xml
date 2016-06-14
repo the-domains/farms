@@ -4,8 +4,15 @@
         <description><![CDATA[Primopur organic farms]]></description>
         <link>http://primopur.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 08:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 08:59:05 GMT</lastBuildDate>
         <atom:link href="http://primopur.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[self sufficiency]]></title>
+            <description><![CDATA[<article><h1>self sufficiency</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c59dace-18c9-4fbf-a0d5-a54e8355e01a.jpg"></article>]]></description>
+            <link>http://primopur.com/self-sufficiency/index.html</link>
+            <guid isPermaLink="false">2e8ef77e-a7bf-4e97-8fe1-9e1389a73b04</guid>
+            <pubDate>Tue, 14 Jun 2016 08:59:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[home stay]]></title>
             <description><![CDATA[<article><h1>home stay</h1><p>We have been asked if we are able to offer home stays. The answer in the short term is ‘maybe soon’ - but in the longer term it’s ‘certainly’.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/376359ea-1def-43a1-a12f-6083fc383bfa.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>http://primopur.com/our-rice/index.html</link>
             <guid isPermaLink="false">c8197a84-155c-4ce4-a214-dea796a82a3c</guid>
             <pubDate>Thu, 02 Jun 2016 08:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[self sufficiency]]></title>
-            <description><![CDATA[<article><h1>self sufficiency</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c59dace-18c9-4fbf-a0d5-a54e8355e01a.jpg"></article>]]></description>
-            <link>http://primopur.com/self-sufficiency/index.html</link>
-            <guid isPermaLink="false">2e8ef77e-a7bf-4e97-8fe1-9e1389a73b04</guid>
-            <pubDate>Thu, 02 Jun 2016 06:18:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
